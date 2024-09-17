@@ -12,7 +12,7 @@ Welcome to my GitHub profile! 🧑‍💻
 
 ### 📈 GitHub Stats (because why not?)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aingez&show_icons=true&theme=tokyonight)
 
 
 
